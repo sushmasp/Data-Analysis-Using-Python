@@ -1,0 +1,12 @@
+MONTH_NAME,ORIGIN_AIRPORT_STATE,Weather_Delay_Reason,Min_Temp,Max_Temp
+January,Georgia,Other,4,67
+February,Georgia,Snow,-10,33
+March,Georgia,Fog,8,68
+April,Georgia,Thunder,14,76
+May,Georgia,Other,19,87
+June,Georgia,Thunder,23,89
+July,Georgia,Thunder,23,93
+August,Georgia,Other,22,87
+September,Georgia,Other,17,88
+November,Georgia,Other,7,66
+December,Georgia,Other,-1,53
