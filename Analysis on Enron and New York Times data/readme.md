@@ -85,11 +85,11 @@ New York Times Dataset: New York Times consists of several APIS. I took a lot of
 But for my analysis I wanted only few fields of the data. So I went throgh each of the file, fetched the required information and stored them in an excel file for my analysis. The data preperation code is in que_2_ana_1.py. The data fetching code and the excel file can be found at:
 
 #####
-Archive API Data Extraction Code : [Archive_API_Data_Extraction_Code](./Analysis on New York Times Data/que_2_Archive_API_data_extraction.py)
+Archive API Data Extraction Code : [Archive_API_Data_Extraction_Code](./Analysis%20on%20New%20York%20Times%20Data/que_2_Archive_API_data_extraction.py)
 
-Prepared Excel for Analysis of Archive API: [Prepared_Excel_for_Analysis_Archive_API](./Analysis on New York Times Data/Archive_API_Data_For_Analysis.xlsx)    
+Prepared Excel for Analysis of Archive API: [Prepared_Excel_for_Analysis_Archive_API](./Analysis%20on%20New%20York%20Times%20Data/Archive_API_Data_For_Analysis.xlsx)    
     
-Excel ScreenShot: ![Excel ScreenShot](./Analysis on New York Times Data/Archive_API_Prepared_Data.JPG)
+Excel ScreenShot: ![Excel ScreenShot](./Analysis%20on%20New%20York%20Times%20Data/Archive_API_Prepared_Data.JPG)
 
 #####
 
