@@ -117,12 +117,12 @@ I merged that data from both of these APIs for my 3rd analysis.
 Code : [Que2_Ana1_Code](./Analysis%20on%20New%20York%20Times%20Data/que_2_ana_1.ipynb)
 
 Output Files: 
-    * [Que2_Ana1_Output1](./Analysis%20on%20New%20York%20Times%20Data/ana_1/Analysis_1_Ouput_Monthwise_Sectionwise_Data.xlsx)    
-    * [Que2_Ana1_Output2](./Analysis%20on%20New%20York%20Times%20Data/ana_1/Analysis_1_Ouput_Top_Bottom_Section_Monthwise.xlsx)
+   * [Que2_Ana1_Output1](./Analysis%20on%20New%20York%20Times%20Data/ana_1/Analysis_1_Ouput_Monthwise_Sectionwise_Data.xlsx)    
+   * [Que2_Ana1_Output2](./Analysis%20on%20New%20York%20Times%20Data/ana_1/Analysis_1_Ouput_Top_Bottom_Section_Monthwise.xlsx)
     
 Output ScreenShot:
-    * ![Que2_Ana1_OutputScreen_shot1](./Analysis%20on%20New%20York%20Times%20Data/ana_1/Que-2_Ana-1_Output1.JPG)
-    * ![Que2_Ana1_OutputScreen_shot2](./Analysis%20on%20New%20York%20Times%20Data/ana_1/Que-2_Ana-1_Output2.JPG)
+   * ![Que2_Ana1_OutputScreen_shot1](./Analysis%20on%20New%20York%20Times%20Data/ana_1/Que-2_Ana-1_Output1.JPG)
+   * ![Que2_Ana1_OutputScreen_shot2](./Analysis%20on%20New%20York%20Times%20Data/ana_1/Que-2_Ana-1_Output2.JPG)
 
 #####
 
@@ -135,12 +135,12 @@ Output ScreenShot:
 Code : [Que2_Ana2_Code](./Analysis%20on%20New%20York%20Times%20Data/que_2_ana_2.ipynb)
 
 Output Files: 
-    * [Que2_Ana2_Output1](./Analysis%20on%20New%20York%20Times%20Data/ana_2/Analysis_2_Ouput_Reporterwise_Sectionwise_Data.xlsx)    
-    * [Que2_Ana2_Output2](./Analysis%20on%20New%20York%20Times%20Data/ana_2/Analysis_2_Ouput_Reporterwise_Expertise_Non-Expertise_Section_Data.xlsx)
+   * [Que2_Ana2_Output1](./Analysis%20on%20New%20York%20Times%20Data/ana_2/Analysis_2_Ouput_Reporterwise_Sectionwise_Data.xlsx)    
+   * [Que2_Ana2_Output2](./Analysis%20on%20New%20York%20Times%20Data/ana_2/Analysis_2_Ouput_Reporterwise_Expertise_Non-Expertise_Section_Data.xlsx)
     
 Output ScreenShot: 
-    * ![Que2_Ana2_OutputScreen_shot1](./Analysis%20on%20New%20York%20Times%20Data/ana_2/Que-2_Ana-2_Output1.JPG)
-    * ![Que2_Ana2_OutputScreen_shot2](./Analysis%20on%20New%20York%20Times%20Data/ana_2/Que-2_Ana-2_Output2.JPG)
+   * ![Que2_Ana2_OutputScreen_shot1](./Analysis%20on%20New%20York%20Times%20Data/ana_2/Que-2_Ana-2_Output1.JPG)
+   * ![Que2_Ana2_OutputScreen_shot2](./Analysis%20on%20New%20York%20Times%20Data/ana_2/Que-2_Ana-2_Output2.JPG)
 
 #####
 
@@ -157,12 +157,12 @@ The code and results can be found at:
 #####
 Code : [Que2_Ana3_Code](./Analysis%20on%20New%20York%20Times%20Data/que_2_ana_3.ipynb)
 
-Output Files: 
-    * [Que2_Ana3_Output1](./Analysis%20on%20New%20York%20Times%20Data/ana_3/Analysis_3_Sectionwise_Loctaionwise_Comments.xlsx)    
-    * [Que2_Ana3_Output2](./Analysis%20on%20New%20York%20Times%20Data/ana_3/Analysis_3_Ouput_Sectionwise_Most_Least_Commenting_Locations.xlsx)
+Output Files:
+  * [Que2_Ana3_Output1](./Analysis%20on%20New%20York%20Times%20Data/ana_3/Analysis_3_Sectionwise_Loctaionwise_Comments.xlsx)    
+  * [Que2_Ana3_Output2](./Analysis%20on%20New%20York%20Times%20Data/ana_3/Analysis_3_Ouput_Sectionwise_Most_Least_Commenting_Locations.xlsx)
     
 Output ScreenShot: 
-    * ![Que2_Ana3_OutputScreen_shot1](./Analysis%20on%20New%20York%20Times%20Data/ana_3/Que-2_Ana-3_Output1.JPG)
-    * ![Que2_Ana3_OutputScreen_shot1](./Analysis%20on%20New%20York%20Times%20Data/ana_3/Que-2_Ana-3_Output2.JPG)
+  * ![Que2_Ana3_OutputScreen_shot1](./Analysis%20on%20New%20York%20Times%20Data/ana_3/Que-2_Ana-3_Output1.JPG)
+  * ![Que2_Ana3_OutputScreen_shot1](./Analysis%20on%20New%20York%20Times%20Data/ana_3/Que-2_Ana-3_Output2.JPG)
 
 #####
