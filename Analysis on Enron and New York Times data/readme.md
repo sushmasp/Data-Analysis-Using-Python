@@ -30,10 +30,10 @@ Output Files:
     
     
 Output ScreenShot: 
-* ![Que1_Ana1_Output_Screenshot1](./Analysis on Enron Data/ana_1/Que-1_Ana-1_Output1.JPG)
-* ![Que1_Ana1_Output_Screenshot2](./Analysis on Enron Data/ana_1/Que-1_Ana-1_Output2.JPG)
-* ![Que1_Ana1_Output_Screenshot3](./Analysis on Enron Data/ana_1/Que-1_Ana-1_Output3.JPG)
-* ![Que1_Ana1_Output_Screenshot4](./Analysis on Enron Data/ana_1/Que-1_Ana-1_Output4.JPG)
+* ![Que1_Ana1_Output_Screenshot1](./Analysis%20on%20Enron%20Data/ana_1/Que-1_Ana-1_Output1.JPG)
+* ![Que1_Ana1_Output_Screenshot2](./Analysis%20on%20Enron%20Data/ana_1/Que-1_Ana-1_Output2.JPG)
+* ![Que1_Ana1_Output_Screenshot3](./Analysis%20on%20Enron%20Data/ana_1/Que-1_Ana-1_Output3.JPG)
+* ![Que1_Ana1_Output_Screenshot4](./Analysis%20on%20Enron%20Data/ana_1/Que-1_Ana-1_Output4.JPG)
 
 #####
 
@@ -46,11 +46,11 @@ Output ScreenShot:
 I first took all the words from each person's sent mails and checked for the critical words; if present add it to a dictionary with year as its key. Similarly, did for all files and updated the dictionary. At the end, I wrote the output to a csv file which can be visualized as below:
 
 #####
-Code : [Que1_Ana2_Code](./Analysis on Enron Data/que_1_ana_2.ipynb)
+Code : [Que1_Ana2_Code](./Analysis%20on%20Enron%20Data/que_1_ana_2.ipynb)
 
-Output File: [Que1_Ana2_Output](./Analysis on Enron Data/ana_2/Analysis_2_Critcal_Words_Yearwise.xlsx)    
+Output File: [Que1_Ana2_Output](./Analysis%20on%20Enron%20Data/ana_2/Analysis_2_Critcal_Words_Yearwise.xlsx)    
     
-Output ScreenShot: ![Que1_Ana2_Output_Screenshot](./Analysis on Enron Data/ana_2/Que-1_Ana-2.JPG)
+Output ScreenShot: ![Que1_Ana2_Output_Screenshot](./Analysis%20on%20Enron%20Data/ana_2/Que-1_Ana-2.JPG)
 
 #####
 
@@ -59,15 +59,15 @@ Output ScreenShot: ![Que1_Ana2_Output_Screenshot](./Analysis on Enron Data/ana_2
 *While doing the above two analysis, I thought like they would have exchanged the mails in the odd time i.e. not during the office hours. That would give us some idea about the scandal like who sent most of the mails at odd time and they can pose an investigation on them. So I considered the time duration between 10pm to 6am as odd (unusual) timing. As all the mails were exchanged at Pacific time zone, I did had to bother about time zones. So from the sent mails of each person, I checked for the time of mail sent and if it is at odd time, I added them to the dictionary. This was done all user and dictionary was updated correspondingly. Finally, I ordered the dictionary to see the top 10 users who sent mails at unusual time. The output was written to a csv file as:*
 
 #####
-Code : [Que1_Ana3_Code](./Analysis on Enron Data/que_1_ana_3.ipynb)
+Code : [Que1_Ana3_Code](./Analysis%20on%20Enron%20Data/que_1_ana_3.ipynb)
 
 Output Files: 
-    * [Que1_Ana3_Output1](./Analysis on Enron Data/ana_3/Analysis_3_Odd_Time_Mail_Senders.xlsx)    
-    * [Que1_Ana3_Output2](./Analysis on Enron Data/ana_3/Analysis_3_Top_10_Odd_Time_Mail_Senders.xlsx)
+    * [Que1_Ana3_Output1](./Analysis%20on%20Enron%20Data/ana_3/Analysis_3_Odd_Time_Mail_Senders.xlsx)    
+    * [Que1_Ana3_Output2](./Analysis%20on%20Enron%20Data/ana_3/Analysis_3_Top_10_Odd_Time_Mail_Senders.xlsx)
     
 Output ScreenShot: 
-    * ![Que1_Ana3_Output_Screenshot1](./Analysis on Enron Data/ana_3/Que-1_Ana-3_Output1.JPG)
-    * ![Que1_Ana3_Output_Screenshot2](./Analysis on Enron Data/ana_3/Que-1_Ana-3_Output2.JPG)
+    * ![Que1_Ana3_Output_Screenshot1](./Analysis%20on%20Enron%20Data/ana_3/Que-1_Ana-3_Output1.JPG)
+    * ![Que1_Ana3_Output_Screenshot2](./Analysis%20on%20Enron%20Data/ana_3/Que-1_Ana-3_Output2.JPG)
 
 #####
 
