@@ -99,11 +99,11 @@ Excel ScreenShot: ![Excel ScreenShot](./Analysis%20on%20New%20York%20Times%20Dat
 But for my analysis I wanted only few fields of the data. So I went throgh each of the file, fetched the required information and stored them in an excel file for my analysis. The data preperation code is in que_2_ana_3.py.  The data fetching code and the excel file can be found at:
 
 #####
-Community API Data Extraction Code : [Archive_API_Data_Extraction_Code](./Analysis on New York Times Data/que_2_Community_API_data_extraction.ipynb)
+Community API Data Extraction Code : [Archive_API_Data_Extraction_Code](./Analysis%20on%20New%20York%20Times%20Data/que_2_Community_API_data_extraction.ipynb)
 
-Prepared Excel for Analysis of Community API: [Prepared_Excel_for_Analysis_Archive_API](./Analysis on New York Times Data/Community_API_Data_For_Analysis.xlsx)    
+Prepared Excel for Analysis of Community API: [Prepared_Excel_for_Analysis_Archive_API](./Analysis%20on%20New%20York%20Times%20Data/Community_API_Data_For_Analysis.xlsx)    
     
-Excel ScreenShot: ![Excel ScreenShot](./Analysis on New York Times Data/Community_API_Prepared_Data.JPG)
+Excel ScreenShot: ![Excel ScreenShot](./Analysis%20on%20New%20York%20Times%20Data/Community_API_Prepared_Data.JPG)
 
 #####
 
@@ -114,15 +114,15 @@ I merged that data from both of these APIs for my 3rd analysis.
 *I thoght like fetching the data according each section for rach month of 2016 would be useful. We know that artcles are categorised as sections. Like for a month, if a section has less number of articles, editors can focus on how to improve that section by increasing the number of articles. So, I decide to analyse the data on a monthly basis for each section. I read the data from the excel file I had prepared, and for each month for each section I counted the number of articles. Then I found the top section i.e. with most number articles and bottom section with least number of articles. The code for the above and output is at below locations: *
 
 #####
-Code : [Que2_Ana1_Code](./Analysis on New York Times Data/que_2_ana_1.ipynb)
+Code : [Que2_Ana1_Code](./Analysis%20on%20New%20York%20Times%20Data/que_2_ana_1.ipynb)
 
 Output Files: 
-    * [Que2_Ana1_Output1](./Analysis on New York Times Data/ana_1/Analysis_1_Ouput_Monthwise_Sectionwise_Data.xlsx)    
-    * [Que2_Ana1_Output2](./Analysis on New York Times Data/ana_1/Analysis_1_Ouput_Top_Bottom_Section_Monthwise.xlsx)
+    * [Que2_Ana1_Output1](./Analysis%20on%20New%20York%20Times%20Data/ana_1/Analysis_1_Ouput_Monthwise_Sectionwise_Data.xlsx)    
+    * [Que2_Ana1_Output2](./Analysis%20on%20New%20York%20Times%20Data/ana_1/Analysis_1_Ouput_Top_Bottom_Section_Monthwise.xlsx)
     
 Output ScreenShot:
-    * ![Que2_Ana1_OutputScreen_shot1](./Analysis on New York Times Data/ana_1/Que-2_Ana-1_Output1.JPG)
-    * ![Que2_Ana1_OutputScreen_shot2](./Analysis on New York Times Data/ana_1/Que-2_Ana-1_Output2.JPG)
+    * ![Que2_Ana1_OutputScreen_shot1](./Analysis%20on%20New%20York%20Times%20Data/ana_1/Que-2_Ana-1_Output1.JPG)
+    * ![Que2_Ana1_OutputScreen_shot2](./Analysis%20on%20New%20York%20Times%20Data/ana_1/Que-2_Ana-1_Output2.JPG)
 
 #####
 
@@ -132,15 +132,15 @@ Output ScreenShot:
 *Each reporter is having his own expertise section. Like he may write in only one section or if he write in 2 or more he may not write articles equally in all sections. So, for an editor it is good to know each reporter's expertise and non-expertise area based on the number of articles he has written. I fetched the number of articles in each section for each reporter using a dictionary. Then I found the expertise and non-expertise sections of a reporter based on the number of articles he has written. The code for this analysis and the output can be found at: *
 
 #####
-Code : [Que2_Ana2_Code](./Analysis on New York Times Data/que_2_ana_2.ipynb)
+Code : [Que2_Ana2_Code](./Analysis%20on%20New%20York%20Times%20Data/que_2_ana_2.ipynb)
 
 Output Files: 
-    * [Que2_Ana2_Output1](./Analysis on New York Times Data/ana_2/Analysis_2_Ouput_Reporterwise_Sectionwise_Data.xlsx)    
-    * [Que2_Ana2_Output2](./Analysis on New York Times Data/ana_2/Analysis_2_Ouput_Reporterwise_Expertise_Non-Expertise_Section_Data.xlsx)
+    * [Que2_Ana2_Output1](./Analysis%20on%20New%20York%20Times%20Data/ana_2/Analysis_2_Ouput_Reporterwise_Sectionwise_Data.xlsx)    
+    * [Que2_Ana2_Output2](./Analysis%20on%20New%20York%20Times%20Data/ana_2/Analysis_2_Ouput_Reporterwise_Expertise_Non-Expertise_Section_Data.xlsx)
     
 Output ScreenShot: 
-    * ![Que2_Ana2_OutputScreen_shot1](./Analysis on New York Times Data/ana_2/Que-2_Ana-2_Output1.JPG)
-    * ![Que2_Ana2_OutputScreen_shot2](./Analysis on New York Times Data/ana_2/Que-2_Ana-2_Output2.JPG)
+    * ![Que2_Ana2_OutputScreen_shot1](./Analysis%20on%20New%20York%20Times%20Data/ana_2/Que-2_Ana-2_Output1.JPG)
+    * ![Que2_Ana2_OutputScreen_shot2](./Analysis%20on%20New%20York%20Times%20Data/ana_2/Que-2_Ana-2_Output2.JPG)
 
 #####
 
@@ -155,14 +155,14 @@ With this data, editor can get to know from where most of the comments are made 
 The code and results can be found at:
 
 #####
-Code : [Que2_Ana3_Code](./Analysis on New York Times Data/que_2_ana_3.ipynb)
+Code : [Que2_Ana3_Code](./Analysis%20on%20New%20York%20Times%20Data/que_2_ana_3.ipynb)
 
 Output Files: 
-    * [Que2_Ana3_Output1](./Analysis on New York Times Data/ana_3/Analysis_3_Sectionwise_Loctaionwise_Comments.xlsx)    
-    * [Que2_Ana3_Output2](./Analysis on New York Times Data/ana_3/Analysis_3_Ouput_Sectionwise_Most_Least_Commenting_Locations.xlsx)
+    * [Que2_Ana3_Output1](./Analysis%20on%20New%20York%20Times%20Data/ana_3/Analysis_3_Sectionwise_Loctaionwise_Comments.xlsx)    
+    * [Que2_Ana3_Output2](./Analysis%20on%20New%20York%20Times%20Data/ana_3/Analysis_3_Ouput_Sectionwise_Most_Least_Commenting_Locations.xlsx)
     
 Output ScreenShot: 
-    * ![Que2_Ana3_OutputScreen_shot1](./Analysis on New York Times Data/ana_3/Que-2_Ana-3_Output1.JPG)
-    * ![Que2_Ana3_OutputScreen_shot1](./Analysis on New York Times Data/ana_3/Que-2_Ana-3_Output2.JPG)
+    * ![Que2_Ana3_OutputScreen_shot1](./Analysis%20on%20New%20York%20Times%20Data/ana_3/Que-2_Ana-3_Output1.JPG)
+    * ![Que2_Ana3_OutputScreen_shot1](./Analysis%20on%20New%20York%20Times%20Data/ana_3/Que-2_Ana-3_Output2.JPG)
 
 #####
