@@ -20,7 +20,7 @@ I fetched all the words from his mails using NLTK's tokenization function and pr
 
 The ouput of the analysis is written to csv files and can be found using these links:
 #####
-Code : [Que1_Ana1_Code](./Analysis on Enron Data/que_1_ana_1.ipynb)
+Code: [Que1_Ana1_Code](./Analysis%20on%20Enron%20Data/que_1_ana_1.ipynb)
 
 Output Files: 
     * [Que1_Ana1_Output1](./Analysis on Enron Data/ana_1/Analysis_1_Top10Receivers.xlsx)    
