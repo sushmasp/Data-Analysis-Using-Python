@@ -23,10 +23,10 @@ The ouput of the analysis is written to csv files and can be found using these l
 Code: [Que1_Ana1_Code](./Analysis%20on%20Enron%20Data/que_1_ana_1.ipynb)
 
 Output Files:
-  *[Que1_Ana1_Output1](./Analysis%20on%20Enron%20Data/ana_1/Analysis_1_Top10Receivers.xlsx)    
-  *[Que1_Ana1_Output2](./Analysis%20on%20Enron%20Data/ana_1/Analysis_1_Top10_Outbox_Words.xlsx)
-  *[Que1_Ana1_Output3](./Analysis%20on%20Enron%20Data/ana_1/Analysis_1_Top10Senders.xlsx)
-  *[Que1_Ana1_Output4](./Analysis%20on%20Enron%20Data/ana_1/Analysis_1_Top10_Inbox_Words.xlsx)
+  * [Que1_Ana1_Output1](./Analysis%20on%20Enron%20Data/ana_1/Analysis_1_Top10Receivers.xlsx)    
+  * [Que1_Ana1_Output2](./Analysis%20on%20Enron%20Data/ana_1/Analysis_1_Top10_Outbox_Words.xlsx)
+  * [Que1_Ana1_Output3](./Analysis%20on%20Enron%20Data/ana_1/Analysis_1_Top10Senders.xlsx)
+  * [Que1_Ana1_Output4](./Analysis%20on%20Enron%20Data/ana_1/Analysis_1_Top10_Inbox_Words.xlsx)
     
     
 Output ScreenShot: 
